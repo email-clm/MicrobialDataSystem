@@ -1,17 +1,18 @@
 # MicrobailDataSystem
-This is a place to compile and share data for soil microbial properties. It should be noted that this dataset is for terrestrial ecosysems, not for marine ecosystems. Meanwhile, since there are many other dataset available on plant, soil carbon, root etc. This dataset focuses on soil microbial properties. A majority of data is from published literature, online data sources etc. 
+This is a place to archive share data for soil microbial properties. It should be noted that this dataset is for terrestrial ecosysems, not for marine ecosystems. Meanwhile, this dataset focuses on soil microbial properties as there are many other dataset available on plant, soil carbon, soil respiration, GPP, NPP, NEE, root etc. A majority of data is from published literature, online data sources etc.
 
-Any contributions are welcome, please email Xiaofeng Xu (xxu@sdsu.edu) if you have any data to contriubte.
+Any contributions are welcome, please email Xiaofeng Xu (xxu@sdsu.edu) if you have any data to contriubte to this dataset.
 
-The data contributes are listed as below and the references are followed.
+The data contributors and references are listed as below.
 
 Data contributors
-Lihua Zhang 
-Liyuan He 
+Lihua Zhang zhanglihua788403@126.com
+Liyuan He lhe2@sdsu.edu
 Xiaofeng Xu xxu@sdsu.edu
 
 
 References
+
 He, L., J. L. M. Rodrigues, N. A. Soudzilovskaia, M. Barcelo, P. A. Olsson, C. Song, L. Tedersoo, F. Yuan, D. A. Lipson, and X. Xu. 2020. Globl biogeography of fungal and bacterial biomass carbon in topsoil. Soil Biology and Biochemistry under review.
 
 Xu, X., J. P. Schimel, I. A. Janssens, X. Song, C. Song, G. Yu, R. L. Sinsabaugh, D. Tang, X. Zhang, and P. E. Thornton. 2017. Global pattern and controls of soil microbial metabolic quotient. Ecological Monographs 87:429-441.
