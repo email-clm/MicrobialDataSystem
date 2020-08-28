@@ -1,5 +1,5 @@
 # MicrobailDataSystem
-This is a place to archive share data for soil microbial properties. It should be noted that this dataset is for terrestrial ecosysems, not for marine ecosystems. Meanwhile, this dataset focuses on soil microbial properties as there are many other dataset available on plant, soil carbon, soil respiration, GPP, NPP, NEE, root etc. A majority of data is from published literature, online data sources etc.
+This is a place to archive and share data for soil microbial properties. It should be noted that this dataset is for terrestrial ecosysems, not for marine ecosystems. Meanwhile, this dataset focuses on soil microbial properties as there are many other dataset available on plant, soil carbon, soil respiration, GPP, NPP, NEE, root etc. A majority of data is from published literature, online data sources etc.
 
 Any contributions are welcome, please email Xiaofeng Xu (xxu@sdsu.edu) if you have any data to contriubte to this dataset.
 
