@@ -7,9 +7,13 @@ The data contributors and references are listed as below.
 
 Data contributors.
 
-Liyuan He lhe2@sdsu.edu.
-Xiaofeng Xu xxu@sdsu.edu.
-Lihua Zhang zhanglihua788403@126.com.
+Ziyu Guo
+Liyuan He lhe2@sdsu.edu
+
+Xiaofeng Xu xxu@sdsu.edu
+
+Lihua Zhang zhanglihua788403@126.com
+
 
 References
 Xu, X., P. E. Thornton, and W. M. Post. 2013. A global analysis of soil microbial biomass carbon, nitrogen and phosphorus in terrestrial ecosystems. Global Ecology and Biogeography 22:737-749.
