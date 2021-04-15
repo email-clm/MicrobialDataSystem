@@ -16,7 +16,8 @@ Xiaofeng Xu xxu@sdsu.edu
 Lihua Zhang zhanglihua788403@126.com
 
 
-References
+References and publications
+
 Xu, X., P. E. Thornton, and W. M. Post. 2013. A global analysis of soil microbial biomass carbon, nitrogen and phosphorus in terrestrial ecosystems. Global Ecology and Biogeography 22:737-749.
 
 Xu, X., D. Hui, A. W. King, X. Song, P. E. Thornton, and L. H. Zhang. 2015. Convergence of microbial assimilations of soil carbon, nitrogen, phosphorus, and sulfur in terrestrial ecosystems. Scientific Reports 5:17445-17454.
