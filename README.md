@@ -7,11 +7,11 @@ The data contributors and references are listed as below.
 
 Data contributors.
 
+Xiaofeng Xu, xxu@sdsu.edu, San Diego State University
+
 Ziyu Guo, Northeast Institute of Geography and Agricultural Ecology, CAS
 
 Liyuan He, lhe2@sdsu.edu, San Diego State University
-
-Xiaofeng Xu, xxu@sdsu.edu, San Diego State University
 
 Lihua Zhang, zhanglihua788403@126.com, Minzu University of China
 
