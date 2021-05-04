@@ -9,7 +9,7 @@ Data contributors.
 
 Xiaofeng Xu, xxu@sdsu.edu, San Diego State University
 
-Ziyu Guo, Northeast Institute of Geography and Agricultural Ecology, CAS
+Ziyu Guo, guoziyu@iga.ac.cn, Northeast Institute of Geography and Agricultural Ecology, CAS
 
 Liyuan He, lhe2@sdsu.edu, San Diego State University
 
